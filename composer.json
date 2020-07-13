@@ -1,0 +1,13 @@
+{
+    "name": "sauthankar/hello-world",
+    "type": "library",
+    "license": "Xento",
+    "authors": [
+        {
+            "name": "Sachin Authankar",
+            "email": "sac.authankar@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
