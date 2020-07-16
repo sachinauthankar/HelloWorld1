@@ -1,7 +1,7 @@
 {
     "name": "sauthankar/hello-world-sauthankar",
     "type": "library",
-    "license": "Xento",
+    "license": "MIT",
     "authors": [
         {
             "name": "Sachin Authankar",
