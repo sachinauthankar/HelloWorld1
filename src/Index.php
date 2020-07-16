@@ -4,7 +4,10 @@ namespace sauthankar\HelloWorld;
 
 class Index
 {
-    public function greet($greet = "Hello World")
+    function __construct() {
+		
+	}
+	public function greet($greet = "Hello World")
     {
         return $greet;
     }
